@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.common-font-style{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-img{
+    
+ background-blend-mode: overlay;
+}
+ .nav-bar{
+     height: 80px.;
+ }
+
+.header-text{
+    font-family: 'Lobster', cursive;
+    color: rgb(243, 63, 213);
+}
+.header-text-color{
+    color: rgb(243, 63, 213);
+}
+.banner{
+
+    height: calc(100vh-80px);
+}
+.footer-bg{
+    background-color:rgb(63, 22, 63) ;
+    color:rgb(243, 63, 213) ;
+}
+.arrow a:active{
+    transform: rotate(180deg);
+}
+.contact-us{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
